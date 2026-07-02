@@ -1,0 +1,6 @@
+.pio/
+.vscode/
+src/config.h
+*.bin
+*.elf
+*.map
